@@ -6,3 +6,5 @@ Hello from Dem2
 
 	Git is fun!!
 
+from feature branch
+	YEAH!!
